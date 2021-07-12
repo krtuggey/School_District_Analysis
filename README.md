@@ -1,7 +1,7 @@
 # School_District_Analysis
 School analysis with python
 
-##Deliverables for the analysis of the school district: 
+## Deliverables for the analysis of the school district: 
 
 1. A high-level snapshot of the district's key metrics, presented in a table format
 2. An overview of the key metrics for each school, presented in a table format
