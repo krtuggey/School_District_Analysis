@@ -18,3 +18,8 @@ School analysis with python
   - Percentage of students who passed math
   - Percentage of students who passed reading
   - Overall passing percentage
+
+Various tables were created for analysis.
+
+There may be falsified scores so I have been tasked with removing those scores from the initial data and conducting further analysis to see if that removed data affects the overall analysis.
+
